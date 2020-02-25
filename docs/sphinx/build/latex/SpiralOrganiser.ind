@@ -1,0 +1,15 @@
+\begin{sphinxtheindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter D
+  \item dataclean() (in module spiralOrg), \hyperpage{3}
+
+  \indexspace
+  \bigletter O
+  \item organise() (in module spiralOrg), \hyperpage{3}
+
+  \indexspace
+  \bigletter S
+  \item spiralOrg (module), \hyperpage{3}
+
+\end{sphinxtheindex}

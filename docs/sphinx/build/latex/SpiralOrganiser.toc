@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Source Code}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Project Summary}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Goals}{5}{section.2.1}
+\contentsline {chapter}{\numberline {3}Spiral Organiser tutorial}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Indices and tables}{9}{chapter.4}
+\contentsline {chapter}{Python Module Index}{11}{section*.5}
+\contentsline {chapter}{Index}{13}{section*.6}
